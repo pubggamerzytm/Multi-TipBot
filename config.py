@@ -1,5 +1,5 @@
 #bot details =====================================================================================================
-token = "11111111:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #Telegram bot token
+token = "1448447302:AAFt1YY2RGfor1oZwp3QxdVzReYzUN08QnA" #Telegram bot token
 
 # wapi =====================================================================================================
 # register in wapi website to get this key link : https://mrcyjanek.net/wapi/ or contact t.me/@mrcyjanek
@@ -33,7 +33,7 @@ btc_min_withdraw = 0.00000100   #example : 0.00001
 adminid = 1152662911
 
 #info button message
-bot_info = "<b>Welcome To Multi Tip Bot</b>\n\n<b>Commands :</b>\n💦 <code>/rain 10 doge</code> - Raining In a Group to all the active users\n🎉 <code>/tip 10 doge</code> - Reply To a users message whom you want to tip/transfer/send your balance\n⚡ <code>/active</code> - Send You the number of active users currently\n<i>All the above mentioned command are only allowed in Group</i>\n\nThis Bot is made by @mrbeandev\n<i>This is only a trail bot</i>To Add this type of a bot to Your Group contact Admin"
+bot_info = "<b>Welcome To Multi Tip Bot</b>\n\n<b>Commands :</b>\n💦 <code>/rain 10 doge</code> - Raining In a Group to all the active users\n🎉 <code>/tip 10 doge</code> - Reply To a users message whom you want to tip/transfer/send your balance\n⚡ <code>/active</code> - Send You the number of active users currently\n<i>All the above mentioned command are only allowed in Group</i>\n\nThis Bot is made by *@Bot_Creator_Dev*\n<i>This is only a trail bot</i>To Add this type of a bot to Your Group contact Admin"
 
 # bot name or any contant which will be displayed on start message
 bot_name = "<b>Welcome To tip bot</b>"   # this supports html markups
@@ -46,10 +46,10 @@ active_users_store_time = 300.00 # i recommend not to change this value XXXXXXXX
 button1 = "💰 Balance 💰"
 
 # deposit button
-button2 = "📥 Dump 📥"
+button2 = "📥 Deposit 📥"
 
 # withdraw button
-button3 = "📤 Payout 📤"
+button3 = "📤 Withdraw 📤"
 
 # info button
 button4 = "🛡 Info 🛡"
