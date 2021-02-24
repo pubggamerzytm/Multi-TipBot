@@ -1,5 +1,5 @@
 #bot details =====================================================================================================
-token = "1448447302:AAFt1YY2RGfor1oZwp3QxdVzReYzUN08QnA" #Telegram bot token
+token = "1448447302:AAFZMZG_pMh_mXU6zLMgtraBC72ocarDFcM" #Telegram bot token
 
 # wapi =====================================================================================================
 # register in wapi website to get this key link : https://mrcyjanek.net/wapi/ or contact t.me/@mrcyjanek
