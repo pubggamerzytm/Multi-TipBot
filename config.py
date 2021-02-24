@@ -3,7 +3,7 @@ token = "1448447302:AAFt1YY2RGfor1oZwp3QxdVzReYzUN08QnA" #Telegram bot token
 
 # wapi =====================================================================================================
 # register in wapi website to get this key link : https://mrcyjanek.net/wapi/ or contact t.me/@mrcyjanek
-api_key = "ooooooooooooooo00000000000ooooooooooooo"
+api_key = "6290a06de1bc34202f861275b29947a9a9b9fbfcae"
 
 # register in wapi website to get this key link : https://mrcyjanek.net/wapi/ or contact t.me/@mrcyjanek
 wapi_username = 'lllllllll'
